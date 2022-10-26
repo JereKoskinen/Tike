@@ -1,3 +1,5 @@
+www.server-world.info
+
 ##	PHP asennus
 dnf -y install php
 # käynnistetään Apache uudelleen ja tarkistetaan php-fpm toimivuus
